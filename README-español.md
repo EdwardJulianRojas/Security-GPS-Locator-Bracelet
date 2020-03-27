@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Brazalete localizador de seguridad GPS
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Este proyecto consiste en un brazalete o manilla que sirve de localizador para personas o mascotas propensas a perderse como medida de seguridad para facilitar su encuentro; consiste en dos manillas: una para el cuidador y otra para el cuidado, la manilla del cuidador poseerá múltiples alertas para avisar al cuidador de la ausencia del cuidado.
 
 ## Comenzando 🚀
 
@@ -11,11 +11,13 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
+-ARDUINO IDE
+-DOS ARDUINOS (UNO O NANO)
+-MÓDULO HC-05
+-MÓDULO HC-06
+-MÓDULO DE VIBRACIÓN
+-BUZZER
+-JUMPERS
 
 ### Instalación 🔧
 
